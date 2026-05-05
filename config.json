@@ -1,0 +1,10 @@
+{
+  "name": "rs-generator",
+  "version": "0.1.31",
+  "settings": {
+    "logLevel": "debug",
+    "maxRetries": 4,
+    "timeout": 5000
+  },
+  "created": "2026-05-05T08:38:29.160Z"
+}
